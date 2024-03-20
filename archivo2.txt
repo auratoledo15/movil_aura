@@ -1,1 +1,2 @@
 Este es el cambio que realice en la rama auxiliar
+cambio de archivo auxiliar
